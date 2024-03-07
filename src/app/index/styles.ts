@@ -12,7 +12,7 @@ export const styles = StyleSheet.create({
         fontFamily: theme.fonts.family.bold,
         lineHeight: 44,
         marginTop: 42,
-       
+
     },
 
     subtitle: {
@@ -24,5 +24,11 @@ export const styles = StyleSheet.create({
         marginTop: 12,
         marginBottom: 38,
         color: theme.colors.gray_400
+    },
+    ingredientsContainer: {
+        flexWrap: 'wrap',
+        flexDirection: 'row',
+        paddingBottom: 200,
+        gap: 12,
     }
 })
