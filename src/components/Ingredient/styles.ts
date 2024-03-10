@@ -18,7 +18,7 @@ export const styles = StyleSheet.create({
   },
   title: {
     fontSize: theme.fonts.size.body.sm,
-    fontFamily: theme.fonts.family.medium,
+    fontFamily: theme.fonts.family.medium, 
   },
   selected: {
     borderWidth: 2,
