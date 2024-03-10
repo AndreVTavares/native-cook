@@ -43,7 +43,6 @@ export default function Index() {
                 }
             </ScrollView>
 
-
         </View>
     )
 }
