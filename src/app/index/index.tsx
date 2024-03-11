@@ -19,7 +19,6 @@ export default function Index() {
         }
 
         setSelected(state => [...state, value])
-        console.log(selected)
     }
 
     function handleClearSelected() {
