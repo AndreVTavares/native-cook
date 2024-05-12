@@ -1,6 +1,6 @@
 # Native Goals
 
-<img src="ImagemCook" alt="Exemplo imagem">
+<img src="ImagemCook.png" alt="Exemplo imagem">
 
 An app to list and show recipes depending on the chosen ingredients, Expo router was used to manage the application screens and [Supabase](https://supabase.com/) as a database to store
 ingredient and recipe information.
